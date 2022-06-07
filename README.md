@@ -1,16 +1,16 @@
-### Hi there 👋
+# “Everything is possible to him who wills only what is true! Rest in Nature, study, know, then dare; dare to will, dare to act and be silent!”
+― Eliphas Lévi
 
-<!--
-**z1nl0x/z1nl0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![alt text](https://github.com/z1nl0x/z1nl0x/blob/main/assets/images/berserk.png "The Truly Dark Knight")
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Meu nome é Paulo K. sou Desenvolvedor Web e Administrador de Redes
+
+- 📚 Técnico em Informática e Técnologo em Segurança da Informação
+
+- 📫 Como entrar em contato comigo: paulo.kreft@gmail.com
+
+
+
+
+
