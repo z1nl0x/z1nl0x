@@ -6,7 +6,7 @@
 
 ## Meu nome é Paulo K. sou Desenvolvedor Web e Administrador de Redes / Hi there! My name is Paulo K. i'm Webdev and SysAdmin
 
-- 📚 Técnico em Informática e Técnologo em Segurança da Informação / I.T. Technician and Security Information Bachelor's Degree
+- 📚 Técnico em Informática e Técnologo em Segurança da Informação / I.T. Technician and Information Security Bachelor's Degree
 
 - 📫 Como entrar em contato comigo / Contact: paulo.kreft@gmail.com
 
