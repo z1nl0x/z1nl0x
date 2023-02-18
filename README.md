@@ -11,8 +11,8 @@
 - 📫 Como entrar em contato comigo / Contact: paulo.kreft@gmail.com
 
 <div>
-  <img height="205px" src="https://github-readme-stats-sigma-five-beryl.vercel.app/api?username=z1nl0x&theme=chartreuse-dark&show_icons=true" alt="Paulo K. GitHub Stats"><img>
-  <img height="205px" src="https://github-readme-stats-sigma-five-beryl.vercel.app/api/top-langs/?username=z1nl0x&theme=chartreuse-dark" alt="Paulo K. Stats" ><img>
+  <img height="205px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=z1nl0x&theme=chartreuse-dark&show_icons=true" alt="Paulo K. GitHub Stats"><img>
+  <img height="205px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=z1nl0x&theme=chartreuse-dark" alt="Paulo K. Stats" ><img>
 </div>
 
 ## Conhecimento em / Knowledge :
