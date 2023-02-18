@@ -19,7 +19,7 @@
 
 <div>
   <p align="left">
-    <img alt="zinlox-py" height="30" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png">
+    <img alt="zinlox-py" height="60" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png">
     <img alt="z1nl0x-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img alt="z1nl0x-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img alt="z1nl0x-ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
