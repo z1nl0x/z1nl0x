@@ -21,5 +21,6 @@
   <p align="left">
     <img alt="zinlox-py" height="50" width="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png">
     <img alt="zinlox-flutter" height="50" width="50" src="https://storage.googleapis.com/cms-storage-bucket/64d67700f8293a9dc827.svg">
+    <img alt="zinlox-flutter" height="50" width="50" src="https://github.com/z1nl0x/z1nl0x/blob/main/assets/images/linux-96.png">
   </p>
 </div>
