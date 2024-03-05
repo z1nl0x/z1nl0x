@@ -20,11 +20,6 @@
 <div>
   <p align="left">
     <img alt="zinlox-py" height="50" width="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png">
-    <!-- <img alt="z1nl0x-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img alt="z1nl0x-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img alt="z1nl0x-ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img alt="z1nl0x-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img alt="z1nl0x-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img alt="z1nl0x-Botstrap" height="30" width="40" src="https://user-images.githubusercontent.com/43352880/192314860-74681e97-543b-409f-bd35-696ea9838b1b.png"> -->
+    <img alt="zinlox-flutter" height="50" width="50" src="https://storage.googleapis.com/cms-storage-bucket/64d67700f8293a9dc827.svg">
   </p>
 </div>
