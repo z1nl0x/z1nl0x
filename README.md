@@ -4,7 +4,7 @@
 
 ![alt text](https://github.com/z1nl0x/z1nl0x/blob/main/assets/images/berserk.png "The Truly Dark Knight")
 
-## Meu nome é Paulo K. sou Desenvolvedor Web e Administrador de Redes / Hi there! My name is Paulo K. i'm Webdev and SysAdmin
+## Meu nome é Paulo K. sou Desenvolvedor e Administrador de Redes / Hi there! My name is Paulo K. i'm Developer and SysAdmin
 
 - 📚 Técnico em Informática e Técnologo em Segurança da Informação / I.T. Technician and Information Security Bachelor's Degree
 
